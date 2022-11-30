@@ -1,0 +1,12 @@
+C:\Users\mojse\Desktop\Programming\AdventureGame\AdventureGameClassLibrary\bin\Debug\net6.0\AdventureGameClassLibrary.deps.json
+C:\Users\mojse\Desktop\Programming\AdventureGame\AdventureGameClassLibrary\bin\Debug\net6.0\AdventureGameClassLibrary.dll
+C:\Users\mojse\Desktop\Programming\AdventureGame\AdventureGameClassLibrary\bin\Debug\net6.0\AdventureGameClassLibrary.pdb
+C:\Users\mojse\Desktop\Programming\AdventureGame\AdventureGameClassLibrary\obj\Debug\net6.0\AdventureGameClassLibrary.csproj.AssemblyReference.cache
+C:\Users\mojse\Desktop\Programming\AdventureGame\AdventureGameClassLibrary\obj\Debug\net6.0\AdventureGameClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mojse\Desktop\Programming\AdventureGame\AdventureGameClassLibrary\obj\Debug\net6.0\AdventureGameClassLibrary.AssemblyInfoInputs.cache
+C:\Users\mojse\Desktop\Programming\AdventureGame\AdventureGameClassLibrary\obj\Debug\net6.0\AdventureGameClassLibrary.AssemblyInfo.cs
+C:\Users\mojse\Desktop\Programming\AdventureGame\AdventureGameClassLibrary\obj\Debug\net6.0\AdventureGameClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\mojse\Desktop\Programming\AdventureGame\AdventureGameClassLibrary\obj\Debug\net6.0\AdventureGameClassLibrary.dll
+C:\Users\mojse\Desktop\Programming\AdventureGame\AdventureGameClassLibrary\obj\Debug\net6.0\refint\AdventureGameClassLibrary.dll
+C:\Users\mojse\Desktop\Programming\AdventureGame\AdventureGameClassLibrary\obj\Debug\net6.0\AdventureGameClassLibrary.pdb
+C:\Users\mojse\Desktop\Programming\AdventureGame\AdventureGameClassLibrary\obj\Debug\net6.0\ref\AdventureGameClassLibrary.dll

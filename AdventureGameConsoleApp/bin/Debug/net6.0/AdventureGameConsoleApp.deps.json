@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "AdventureGameConsoleApp/1.0.0": {
+        "dependencies": {
+          "AdventureGameClassLibrary": "1.0.0"
+        },
+        "runtime": {
+          "AdventureGameConsoleApp.dll": {}
+        }
+      },
+      "AdventureGameClassLibrary/1.0.0": {
+        "runtime": {
+          "AdventureGameClassLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AdventureGameConsoleApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AdventureGameClassLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
